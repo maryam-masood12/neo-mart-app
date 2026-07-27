@@ -30,11 +30,7 @@ class CustomAppBar extends StatelessWidget{
               child: Row(
                 children: [
                   SizedBox(width: width*0.05,),
-                  GestureDetector (
-                    onTap: () {
-                     Scaffold.of(context).openDrawer(); 
-                  },
-                    child: Icon(Icons.menu_rounded , color: Color.fromARGB(255, 203, 205, 206),size: 28,)),
+                  Icon(Icons.menu_rounded , color: Color.fromARGB(255, 203, 205, 206),size: 28,),
                     SizedBox(width: width*0.09,),
                    Text("NEO",style: GoogleFonts.spaceGrotesk(fontSize: 21,letterSpacing: 1,fontWeight: FontWeight.w400,
                         color: Colors.white,
