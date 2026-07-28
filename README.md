@@ -24,6 +24,17 @@ This project is independently developed to strengthen Flutter development skills
 - ♻️ Reusable Widgets
 - 🏗️ Built Completely from Scratch
 
+- ---
+
+## 📸 Screenshots
+
+### 🚀 Splash Screen
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fc664250-1e36-44e7-bf6d-46b332970b19" alt="Splash Screen" width="250"/>
+</p> 
+
+
 ## 🛠️ Tech Stack
 
 - Flutter
