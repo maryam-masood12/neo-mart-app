@@ -29,12 +29,12 @@ This project is independently developed to strengthen Flutter development skills
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fc664250-1e36-44e7-bf6d-46b332970b19" alt="Splash Screen" width="220"/>
+  <img src="https://github.com/user-attachments/assets/fc664250-1e36-44e7-bf6d-46b332970b19" alt="Splash Screen" width="190"/>
    <img src="https://github.com/user-attachments/assets/07d385e6-8dee-42b9-8a04-b5e9224b150d"  alt = " Onboarding Screen_1"
- width="220"/>
+ width="190"/>
    <img src="https://github.com/user-attachments/assets/b669d397-dc9b-4a69-963f-a68a6362f964" alt = " Onboarding Screen_2"
- width="220"/>
-   <img src="https://github.com/user-attachments/assets/6bdd523b-9e47-4168-821b-b8cd24e175fd" alt = " Onboarding Screen_3" width="220"/>
+ width="190"/>
+   <img src="https://github.com/user-attachments/assets/6bdd523b-9e47-4168-821b-b8cd24e175fd" alt = " Onboarding Screen_3" width="190"/>
 </p> 
 
 <p align="center">
