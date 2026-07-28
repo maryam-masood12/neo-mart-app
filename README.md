@@ -38,19 +38,19 @@ This project is independently developed to strengthen Flutter development skills
 </p> 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/400cfbf2-9363-41cd-911f-a83d19bef71d" alt = "Login Screen"  width="220"/>
-  <img  src="https://github.com/user-attachments/assets/032587e3-31db-4022-9368-7d125bc9e21a" alt = "Sign UP Screen"  width="220"/>
+  <img src="https://github.com/user-attachments/assets/400cfbf2-9363-41cd-911f-a83d19bef71d" alt = "Login Screen"  width="190"/>
+  <img  src="https://github.com/user-attachments/assets/032587e3-31db-4022-9368-7d125bc9e21a" alt = "Sign UP Screen"  width="190"/>
     <img src="https://github.com/user-attachments/assets/4455ac92-172c-4442-8054-ed47131b838d" alt = "Home Screen"
- width="220"/>
+ width="190"/>
   <img  src="https://github.com/user-attachments/assets/7f031ad7-5151-4b3b-8432-b4fcf905f1e3" alt = "Product Detail
- Screen" width="220"/>
+ Screen" width="190"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/528d33be-c710-4af3-813a-52c3952a3244" alt = "Cart Screen" width="220"/>
-   <img src="https://github.com/user-attachments/assets/d1d94f55-3203-4a0d-813a-4210c27f194c"  alt = "Cart Dialog" width="220"/>
-   <img src="https://github.com/user-attachments/assets/9f85218b-4402-4e72-884a-99ec2804c8cd"  alt = "Wishlist" width="220"/>
-    <img src="https://github.com/user-attachments/assets/a52b9e3d-afdd-489c-ae0a-ef3c61c69422" alt = "Profile" width="220"/>
+  <img src="https://github.com/user-attachments/assets/528d33be-c710-4af3-813a-52c3952a3244" alt = "Cart Screen" width="190"/>
+   <img src="https://github.com/user-attachments/assets/d1d94f55-3203-4a0d-813a-4210c27f194c"  alt = "Cart Dialog" width="190"/>
+   <img src="https://github.com/user-attachments/assets/9f85218b-4402-4e72-884a-99ec2804c8cd"  alt = "Wishlist" width="190"/>
+    <img src="https://github.com/user-attachments/assets/a52b9e3d-afdd-489c-ae0a-ef3c61c69422" alt = "Profile" width="190"/>
 </p>
 
 ---
